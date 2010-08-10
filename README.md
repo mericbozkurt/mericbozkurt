@@ -2,4 +2,4 @@
 - 🌱 I am studying Computer Science in Poland!
 - 👀 I’m interested in Entrepreneurship, Hosting/Server Systems, Marketing. 
 - 💞️ I collaborate with my teammates on new projects and new ventures.
-- 📫 You can reach me via e-mail!✨
+- 📫 You can reach me via e-mail!.✨
