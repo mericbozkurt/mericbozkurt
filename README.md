@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mericbozkurt
+- 👀 I’m interested in Entrepreneurship, Hosting/Server Systems, Marketing. 
+- 🌱 I’m currently learning OOP.
+- 💞️ I collaborate with my teammates on new projects and new ventures.
+- 📫 You can reach me via e-mail!✨
